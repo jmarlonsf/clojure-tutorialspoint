@@ -1,3 +1,4 @@
+; https://www.tutorialspoint.com/clojure/clojure_data_types.htm
 (ns examples.datatypes
   (:gen-class))
 

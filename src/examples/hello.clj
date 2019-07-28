@@ -1,8 +1,6 @@
+; https://www.tutorialspoint.com/clojure/clojure_basic_syntax.htm
 (ns examples.hello
   (:gen-class))
-
-;import clojure namespace
-;(require 'clojure.java.io')
 
 ;;simple hello-world example
 (defn hello-world []

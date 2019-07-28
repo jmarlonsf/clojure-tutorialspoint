@@ -1,4 +1,6 @@
-(ns examples.operators)
+; https://www.tutorialspoint.com/clojure/clojure_operators.htm
+(ns examples.operators
+  (:gen-class))
 
 (defn ArithmeticOperator []
   (println (str "ArithmeticOperator"))
